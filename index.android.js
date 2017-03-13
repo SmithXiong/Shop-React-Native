@@ -9,7 +9,7 @@
  */
 
 /**
- * Android入口文件
+ * Android入口文件11
  */
 import { AppRegistry } from 'react-native';
 import Root from './app/root';
